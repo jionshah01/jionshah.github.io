@@ -13,6 +13,10 @@
   padding: 16px 0 0 0;
   text-align: center;
 }
+#footer .up a{
+  color: var(--white-color);
+  font-size: 18px;
+}
 #footer .up span {
   color: var(--white-color);
   font-size: 18px;
@@ -31,10 +35,6 @@
 }
 #footer .social_links i:hover {
   color: #e4e4e4;
-}
-#footer .up p>a{
-  color: var(--white-color);
-  font-size: 18px;
 }
 @media (max-width: 1199px) {
   #footer {
