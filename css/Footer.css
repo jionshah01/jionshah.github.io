@@ -32,6 +32,9 @@
 #footer .social_links i:hover {
   color: #e4e4e4;
 }
+#footer .up p>a{
+  color: var(--white-color);
+}
 @media (max-width: 1199px) {
   #footer {
     min-height: 180px;
